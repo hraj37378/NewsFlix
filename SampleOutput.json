@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "GABE STERN",
+      "title": "Las Vegas ballpark pitch revives debate over public funding for sports stadiums",
+      "description": "CARSON CITY, Nev. (AP) — Gov. Joe Lombardo wants to help build Major League Baseball's smallest ballpark, arguing that the worst team in baseball can boost Las Vegas, a city striving to call itself a sports mecca.",
+      "url": "https://apnews.com/7f30a9730bc5d6d85dcb754ce28ddbb5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6f59a1313bc045598d526d2679683eef/3000.jpeg",
+      "publishedAt": "2023-06-04T05:30:04Z",
+      "content": "CARSON CITY, Nev. (AP) — Gov. Joe Lombardo wants to help build Major League Baseball's smallest ballpark, arguing that the worst team in baseball can boost Las Vegas, a city striving to call itself a… [+6790 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Regina Pats phenom Connor Bedard makes history at CHL Awards | CBC Sports",
+      "description": "Connor Bedard made Canadian Hockey League history on Saturday. The presumed No. 1 pick of this year's NHL draft won the CHL Top Prospect, Top Scorer, and David Branch Player of the Year awards. It's the first time since the Top Scorer award was introduced in …",
+      "url": "http://www.cbc.ca/sports/hockey/regina-pats-connor-bedard-chl-awards-june-4-1.6865018",
+      "urlToImage": "https://i.cbc.ca/1.6865023.1685830060!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hko-chl-awards-20230603.JPG",
+      "publishedAt": "2023-06-04T02:37:18.6230246Z",
+      "content": "Connor Bedard made Canadian Hockey League history on Saturday.\r\nThe presumed No. 1 pick of this year's NHL entry draft won the CHL Top Prospect, Top Scorer, and David Branch Player of the Year awards… [+3689 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ Knicks Playoff Special ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+      "urlToImage": null,
+      "publishedAt": "2023-04-17T21:22:15.1716203Z",
+      "content": "Knicks Start Playoff Run | Hero Ball"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    }
+  ]
+}
